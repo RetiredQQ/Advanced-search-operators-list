@@ -160,7 +160,7 @@ Thank you for following me! https://cybdetective.com
 |------------------|-------------------------|
 | Shodan | https://help.shodan.io/the-basics/search-query-fundamentals |
 | Censys | https://censys.io/ipv4/help/examples?q=& |
-| FOFA | https://fofa.so/ (click the button below search field)|
+| FOFA | https://fofa.info/ (click the button below search field)|
 
 <a name="marketplace"></a>
 <h1>Marketplaces</h1>
